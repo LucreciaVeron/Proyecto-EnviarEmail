@@ -5,6 +5,9 @@ Consiste en un formulario web para el envío de correos electrónicos, implement
 
 El proyecto se enfoca en la **validación de formularios**, el manejo del **DOM en tiempo real** y la mejora de la experiencia del usuario mediante **feedback visual**.
 
+Este proyecto fue creado como parte del curso de Udemy:  
+[JavaScript Moderno: Guía Definitiva Construye +10 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos)
+
 ---
 
 ## ✨ Funcionalidades principales
